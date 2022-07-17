@@ -13,14 +13,14 @@ public class KubernetesSpringBootApplication {
 
 		SpringApplication.run(KubernetesSpringBootApplication.class, args);
 		System.out.println("HEllo K8s");
-		System.out.println("HEllo K8s");
+
 	}
 
 
 	@GetMapping("/message")
 	public String getMessage() {
 
-		return "Welocme to Tech Primes !!";
+		return "Welcome to Tech Primes !!";
 	}
 
 
