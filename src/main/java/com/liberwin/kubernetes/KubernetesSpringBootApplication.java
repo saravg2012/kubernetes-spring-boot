@@ -12,7 +12,7 @@ public class KubernetesSpringBootApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(KubernetesSpringBootApplication.class, args);
-		System.out.println("Hello K8s-");
+		System.out.println("Hello K8s");
 
 	}
 
