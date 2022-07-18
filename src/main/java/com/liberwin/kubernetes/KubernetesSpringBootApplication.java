@@ -16,7 +16,7 @@ public class KubernetesSpringBootApplication {
 		System.out.println("Hello branch3");
 
 	}
-
+9
 
 	@GetMapping("/message")
 	public String getMessage() {
