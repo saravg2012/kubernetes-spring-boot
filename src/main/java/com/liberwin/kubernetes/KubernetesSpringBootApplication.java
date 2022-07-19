@@ -13,6 +13,7 @@ public class KubernetesSpringBootApplication {
 
 		SpringApplication.run(KubernetesSpringBootApplication.class, args);
 		System.out.println("Hello branch444566666");
+		System.out.println("Hello branch4445555");
 		System.out.println("Hello branch3");
 	}
 
